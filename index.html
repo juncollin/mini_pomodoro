@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script type="text/javascript" src="./pomodoro.js"></script>
+<meta charset="utf-8">
+<link href="./pomodoro.css" rel="stylesheet" type="text/css">
+<link href='https://fonts.googleapis.com/css?family=Noto+Sans:400italic' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+</head>
+<body id="this_body" bgcolor="white" onload="showNeutral()">
+
+<div id="contents">
+
+  <div id="page_title">
+    Mini Pomodoro
+  </div>
+
+  <div id="pomodoro_timer"></div>
+  <div id="timer_part">
+    <div id="circle"></div>
+    <div id="point"></div>
+  </div>
+
+  <div id="buttons">
+    <a href="#" onClick="focusAction();return false;"><img id="focus_button" src="./images/work_start.png" width="40px" height="40px" /></a>
+    　
+    <a href="#" onClick="intervalAction();return false;"><img id="interval_button" src="./images/rest_start.png" width="40px" height="40px" /></a>
+  </div>
+
+</div>
+
+<audio id="sound-file" preload="auto">
+	<source src=".sound/crrect_answer3.mp3" type="audio/mp3">
+</audio>
+
+</body>
+</html>

@@ -1,0 +1,78 @@
+#contents {
+//  display:flex;justify-content:center;align-items:center;
+  margin: 0 auto;
+  width: 160px;
+//  border: 1px solid #000;
+}
+
+#page_title {
+  font-family: 'Lobster', cursive;
+  font-size: 20px;
+  color: #666;
+  position: relative;
+  top:0px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#buttons {
+  position: relative;;
+  top: -10px;
+//  left: 10px;
+//text-align: center;
+ display:flex;justify-content:center;align-items:center;
+}
+
+#focus_button {
+  width: 40px;
+  height: 40px;
+}
+
+#interval_button {
+  width: 40px;
+  height: 40px;
+}
+
+#pomodoro_timer {
+  font-family: "HelveticaNeue-Thin", "Helvetica Neue Thin", "Helvetica Neue", ".HiraKakuInterface-W1";
+  font-size: 32px;
+  position: relative;
+  top: 60px;
+  left: 41px;
+  margin: 0 auto;
+  color: #666;
+}
+
+#timer_part {
+  position: relative;
+  top: -20px;
+  left: 20px;
+  width: 124px;
+  height: 124px;
+//  border: 1px solid #000;
+}
+
+#circle {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  margin: 0 auto;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border: 2px solid #ccc;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+}
+
+#point {
+  width: 10px;
+  height: 10px;
+  border-radius: 5px;
+  position: relative;
+  top: -122px;
+  left: 56px;
+  transform: translateY(-50%);
+//  background-color: #999;
+  background-image: url(./images/red_point.png)
+}
