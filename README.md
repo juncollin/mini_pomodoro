@@ -2,9 +2,9 @@
 
 Mini Pomodoro Timer wirtten in JavaScript.
 
-http://www.collindo.com/mini_pomodoro/index.html
+http://www.collindo.com/mini_pomodoro/
 
-![screen shot](http://www.collindo.com/mini_pomodoro/screen_shot.png)
+![screen shot](http://www.collindo.com/mini_pomodoro/images/screen_shot.png)
 
 ## About Pomodoro Technique.
 Pomodoro Technique is the time management technique for productivity created by Francesco Cirillo.
