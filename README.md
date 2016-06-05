@@ -4,12 +4,12 @@ This is Mini Pomodoro Timer wirtten in JavaScript.
 
 http://www.collindo.com/mini_pomodoro/
 
-![screen shot](http://www.collindo.com/mini_pomodoro/images/screen_shot.png =150x)
+<img src="http://www.collindo.com/mini_pomodoro/images/screen_shot.png" width="150px">
 
 ## Pomodoro Technique.
-Work 25 minutes and rest 5 minutes, and after 4 times repeat, take 15 minutes rest.
-(This code doesn't support 15 minutes break.)
-For more information 
+Work 25 minutes and rest 5 minutes, and after 4 times repeat, take 15 minutes rest.<br>
+(This code doesn't support 15 minutes break.)<br>
+For more information <br>
 [HOME -The Pomodoro Technique®](http://pomodorotechnique.com)
 
 
